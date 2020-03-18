@@ -2,46 +2,55 @@
 body {
   margin: 0;
   height: 100vh;
-  background-color: #91918D; }
+  background-color: #91918D;
+}
 
 img {
-  max-width: 80%; }
+  max-width: 80%;
+}
 
 h1 {
   font-family: "Raleway", sans-serif;
   font-weight: 200;
-  font-size: 100px; }
+  font-size: 100px;
+}
 
 h3 {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 50px;
-  color: #686963; }
+  color: #686963;
+}
 
 p {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  color: #686963; }
+  color: #686963;
+}
 
 .header {
   background-color: #FAFAFA;
   margin: 0;
   padding: 0;
-  height: 90px; }
+  height: 90px;
+}
 
 .logo__image {
   width: 280px;
   margin: 1%;
-  margin-left: 4%; }
+  margin-left: 4%;
+}
 
 header {
-  margin: 0; }
+  margin: 0;
+}
 
 section {
   background-color: #E56353;
   height: 700px;
-  margin: 0; }
+  margin: 0;
+}
 
 .hero {
   position: absolute;
@@ -50,54 +59,64 @@ section {
   transform: translateX(-50%);
   font-family: "Raleway", sans-serif;
   color: #FFF;
-  margin-top: 10%; }
+  margin-top: 10%;
+}
 
 .first {
   font-size: 80px;
-  text-align: center; }
+  text-align: center;
+}
 
 span {
   font-weight: 700;
   font-size: 70px;
-  text-align: center; }
+  text-align: center;
+}
 
 .main-white {
   font-family: "Raleway", sans-serif;
   color: #FFF;
-  text-align: center; }
+  text-align: center;
+}
 
 .white-p {
   font-family: "Raleway", sans-serif;
   color: #FFF;
   text-align: left;
   margin-left: 20%;
-  margin-right: 20%; }
+  margin-right: 20%;
+}
 
 #white-bg {
-  background-color: #FAFAFA; }
+  background-color: #FAFAFA;
+}
 
 .main-gray {
   font-family: "Raleway", sans-serif;
   color: #91918D;
-  text-align: center; }
+  text-align: center;
+}
 
 .gray-p {
   font-family: "Raleway", sans-serif;
   color: #91918D;
   text-align: left;
   margin-left: 20%;
-  margin-right: 20%; }
+  margin-right: 20%;
+}
 
 .tomato__image1 {
   width: 75%;
   margin-top: 5%;
   margin-left: 10%;
-  margin-right: 10%; }
+  margin-right: 10%;
+}
 
 .tomato__image2 {
   width: 75%;
   margin-top: 5%;
   margin-left: 10%;
-  margin-right: 10%; }
+  margin-right: 10%;
+}
 
 /*# sourceMappingURL=main.css.map */

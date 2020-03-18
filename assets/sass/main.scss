@@ -9,14 +9,12 @@
 @import 'base/reset';
 @import 'base/typography';
 
-@import 'layout/navigation';
-@import 'layout/grid';
 @import 'layout/header';
 @import 'layout/footer';
-@import 'layout/forms';
+@import 'layout/sections';
 
 @import 'components/buttons';
-@import 'components/cover';
+@import 'components/images';
 
 @import 'pages/home';
 @import 'pages/contact';

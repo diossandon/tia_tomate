@@ -1,0 +1,62 @@
+section {
+    background-color: $jellybean;
+    height: 700px;
+    margin: 0;
+}
+
+.hero{
+    position: absolute;
+    left: 50%;
+    top: 10.5vh;
+    transform: translateX(-50%);
+    font-family: $raleway;
+    color: $white;
+    margin-top: 10%;
+    
+}
+
+.first{
+    font-size: 80px;
+    text-align: center;
+
+}
+
+span{
+    font-weight: $bold;
+    font-size: $xlarge;
+    text-align: center;
+}
+
+.main-white {
+    font-family: $raleway;
+    color: $white;
+    text-align: center;
+}
+
+.white-p {
+
+    font-family: $raleway;
+    color: $white;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#white-bg{
+    background-color: $snow;
+}
+
+.main-gray {
+    font-family: $raleway;
+    color: $taupegrey;
+    text-align: center;
+}
+
+.gray-p {
+
+    font-family: $raleway;
+    color: $taupegrey;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
