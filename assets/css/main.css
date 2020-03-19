@@ -2,10 +2,10 @@
 body {
   margin: 0;
   height: 100vh;
-  background-color: #91918D; }
+  background-color: #E56353; }
 
 img {
-  max-width: 80%; }
+  max-width: 70%; }
 
 h1 {
   font-family: "Raleway", sans-serif;
@@ -24,6 +24,28 @@ p {
   font-size: 18px;
   color: #686963; }
 
+.first {
+  font-size: 80px;
+  text-align: center; }
+
+span {
+  font-weight: 700;
+  font-size: 70px;
+  text-align: center; }
+
+.main-white {
+  font-family: "Raleway", sans-serif;
+  color: #FFF;
+  text-align: center;
+  font-weight: 700; }
+
+.white-p {
+  font-family: "Raleway", sans-serif;
+  color: #FFF;
+  text-align: left;
+  margin-left: 20%;
+  margin-right: 20%; }
+
 .header {
   background-color: #FAFAFA;
   margin: 0;
@@ -38,10 +60,15 @@ p {
 header {
   margin: 0; }
 
-section {
-  background-color: #E56353;
-  height: 700px;
-  margin: 0; }
+.logo__footer {
+  margin-right: 50%;
+  margin-left: 40%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 15%; }
+
+footer {
+  background-color: #686963; }
 
 .hero {
   position: absolute;
@@ -52,34 +79,20 @@ section {
   color: #FFF;
   margin-top: 10%; }
 
-.first {
-  font-size: 80px;
-  text-align: center; }
+#hero__jelly {
+  background-color: #E56353;
+  height: 75%;
+  margin: 0; }
 
-span {
-  font-weight: 700;
-  font-size: 70px;
-  text-align: center; }
-
-.main-white {
-  font-family: "Raleway", sans-serif;
-  color: #FFF;
-  text-align: center; }
-
-.white-p {
-  font-family: "Raleway", sans-serif;
-  color: #FFF;
-  text-align: left;
-  margin-left: 20%;
-  margin-right: 20%; }
-
-#white-bg {
-  background-color: #FAFAFA; }
+.white-bg {
+  background-color: #FAFAFA;
+  padding-bottom: 5%; }
 
 .main-gray {
   font-family: "Raleway", sans-serif;
   color: #91918D;
-  text-align: center; }
+  text-align: center;
+  font-weight: 700; }
 
 .gray-p {
   font-family: "Raleway", sans-serif;
@@ -87,6 +100,10 @@ span {
   text-align: left;
   margin-left: 20%;
   margin-right: 20%; }
+
+.gray-bg {
+  background-color: #91918D;
+  padding-bottom: 5%; }
 
 .tomato__image1 {
   width: 75%;
@@ -99,5 +116,17 @@ span {
   margin-top: 5%;
   margin-left: 10%;
   margin-right: 10%; }
+
+.javiera__photo {
+  width: 25%;
+  margin-right: 50%;
+  margin-left: 35%;
+  margin-top: 5%; }
+
+.roberto__photo {
+  width: 25%;
+  margin-right: 50%;
+  margin-left: 35%;
+  margin-top: 5%; }
 
 /*# sourceMappingURL=main.css.map */

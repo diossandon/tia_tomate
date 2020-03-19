@@ -1,8 +1,3 @@
-section {
-    background-color: $jellybean;
-    height: 700px;
-    margin: 0;
-}
 
 .hero{
     position: absolute;
@@ -15,41 +10,23 @@ section {
     
 }
 
-.first{
-    font-size: 80px;
-    text-align: center;
-
+#hero__jelly {
+    background-color: $jellybean;
+    height: 75%;
+    margin: 0;
 }
 
-span{
-    font-weight: $bold;
-    font-size: $xlarge;
-    text-align: center;
-}
-
-.main-white {
-    font-family: $raleway;
-    color: $white;
-    text-align: center;
-}
-
-.white-p {
-
-    font-family: $raleway;
-    color: $white;
-    text-align: left;
-    margin-left: 20%;
-    margin-right: 20%;
-}
-
-#white-bg{
+.white-bg {
     background-color: $snow;
+    padding-bottom: 5%;
+    
 }
 
 .main-gray {
     font-family: $raleway;
     color: $taupegrey;
     text-align: center;
+    font-weight: $bold;
 }
 
 .gray-p {
@@ -59,4 +36,9 @@ span{
     text-align: left;
     margin-left: 20%;
     margin-right: 20%;
+}
+
+.gray-bg {
+    background-color: $taupegrey;
+    padding-bottom: 5%;
 }

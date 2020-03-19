@@ -17,4 +17,32 @@ p {
     font-weight: $regular;
     font-size:$medium;
     color: $granitegray;
-} 
+}
+
+.first{
+    font-size: 80px;
+    text-align: center;
+
+}
+
+span{
+    font-weight: $bold;
+    font-size: $xlarge;
+    text-align: center;
+}
+
+.main-white {
+    font-family: $raleway;
+    color: $white;
+    text-align: center;
+    font-weight: $bold;
+}
+
+.white-p {
+
+    font-family: $raleway;
+    color: $white;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
