@@ -1,10 +1,6 @@
 body {
-  margin: 0;
   height: 100vh;
   background-color: $jellybean;
+  width: 100vh;
+  overflow-x: hidden;
 }
-
-img{
-  max-width: 70%;
-}
-  
