@@ -77,6 +77,10 @@ div {
     width: 1349px;
 }
 
-.contact-main--white {
+.contact-main__white {
     width: 1349px;
+    color: $white;
+    font-size: $large;
+    font-weight: $bold;
+    margin-left: 55%;
 }
